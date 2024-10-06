@@ -1,6 +1,6 @@
 password = 1122
 if password == 1122:
-    print("permission granted")
+    print("Correct.permission granted")
 else:
-    print("permission not grated")
+    print("Worng. permission not granted")
 
